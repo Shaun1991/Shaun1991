@@ -1,4 +1,4 @@
-# Hey There! 👋 I'm [Your Name]
+# Hey There! 👋 I'm Shaun Lin
 
 Data Analytics Professional with 5+ years of experience working within data analytics teams. I specialize in applying analytics and engineering techniques to deliver actionable insights, streamline processes, and drive data-informed decision-making.
 
